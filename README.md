@@ -1,4 +1,4 @@
-# kronecker-everything
+# Just-Kronecker-It
 Neat routines for exploiting Kronecker product structures <br>
 [You will need Paul Constantine & David Gleich's pmpack routines for these codes].
 <br>
